@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/a-a-HvG1cGlrA2E-unsplash.jpg",
+    "quote_begin": "Remember",
+    "quote_middle": "why",
+    "quote_end": "you started"
+  },
+  {
+    "id": 2,
+    "image": "../assets/ajeet-mestry-UBhpOIHnazM-unsplash.jpg",
+    "quote_begin": "Go up",
+    "quote_middle": "and",
+    "quote_end": "never stop"
+  },
+  {
+    "id": 3,
+    "image": "../assets/amber-kipp-6JZ09actp80-unsplash.jpg",
+    "quote_begin": "Live",
+    "quote_middle": "work",
+    "quote_end": "create"
+  },
+  {
+    "id": 4,
+    "image": "../assets/bekir-donmez-eofm5R5f9Kw-unsplash.jpg",
+    "quote_begin": "Wake up",
+    "quote_middle": "kick ass",
+    "quote_end": "repeat"
+  },
+  {
+    "id": 5,
+    "image": "../assets/carson-arias-7Z03R1wOdmI-unsplash.jpg",
+    "quote_begin": "Punch",
+    "quote_middle": "today",
+    "quote_end": "in the face"
+  },
+  {
+    "id": 6,
+    "image": "../assets/christophe-dion-8aYRsxVspHU-unsplash.jpg",
+    "quote_begin": "Together",
+    "quote_middle": "we",
+    "quote_end": "create"
+  },
+  {
+    "id": 7,
+    "image": "../assets/eberhard-grossgasteiger-5P91SF0zNsI-unsplash.jpg",
+    "quote_begin": "You",
+    "quote_middle": "got",
+    "quote_end": "this"
+  },
+  {
+    "id": 8,
+    "image": "../assets/ellen-auer-BaM_1KlFZkc-unsplash.jpg",
+    "quote_begin": "do what",
+    "quote_middle": "scares",
+    "quote_end": "you"
+  },
+  {
+    "id": 9,
+    "image": "../assets/gerson-repreza-hniuowbXbBY-unsplash.jpg",
+    "quote_begin": "Think",
+    "quote_middle": "outside",
+    "quote_end": "the box"
+  },
+  {
+    "id": 10,
+    "image": "../assets/jake-blucker-tMzCrBkM99Y-unsplash.jpg",
+    "quote_begin": "we can",
+    "quote_middle": "do",
+    "quote_end": "hard things"
+  },
+  {
+    "id": 11,
+    "image": "../assets/jon-tyson-XmMsdtiGSfo-unsplash.jpg",
+    "quote_begin": "you",
+    "quote_middle": "are",
+    "quote_end": "enough"
+  },
+  {
+    "id": 12,
+    "image": "../assets/julia-joppien--3wygakaeQc-unsplash.jpg",
+    "quote_begin": "do",
+    "quote_middle": "something",
+    "quote_end": "great"
+  },
+  {
+    "id": 13,
+    "image": "../assets/marc-kleen-cfaSZoGqwd4-unsplash.jpg",
+    "quote_begin": "make each",
+    "quote_middle": "day",
+    "quote_end": "your masterpiece"
+  },
+  {
+    "id": 14,
+    "image": "../assets/maria-teneva-A1IA8V0DJ_0-unsplash.jpg",
+    "quote_begin": "nothing",
+    "quote_middle": "is",
+    "quote_end": "impossible"
+  },
+  {
+    "id": 15,
+    "image": "../assets/max-sandelin-YcfZGA0-eMQ-unsplash.jpg",
+    "quote_begin": "don't",
+    "quote_middle": "give",
+    "quote_end": "up"
+  },
+  {
+    "id": 16,
+    "image": "../assets/nathan-lemon-FBiKcUw_sQw-unsplash.jpg",
+    "quote_begin": "keep",
+    "quote_middle": "your",
+    "quote_end": "balance"
+  },
+  {
+    "id": 17,
+    "image": "../assets/oliver-plattner-AUlmpoJcRdE-unsplash.jpg",
+    "quote_begin": "believe",
+    "quote_middle": "you",
+    "quote_end": "can"
+  },
+  {
+    "id": 18,
+    "image": "../assets/pietro-de-grandi-6U4wogjLArk-unsplash.jpg",
+    "quote_begin": "be",
+    "quote_middle": "the",
+    "quote_end": "change"
+  },
+  {
+    "id": 19,
+    "image": "../assets/s-migaj-9D3swqmEFjk-unsplash.jpg",
+    "quote_begin": "dream big",
+    "quote_middle": "and",
+    "quote_end": "dare to fail"
+  },
+  {
+    "id": 20,
+    "image": "../assets/sam-WgKIF62qvbo-unsplash.jpg",
+    "quote_begin": "try again",
+    "quote_middle": "fail again",
+    "quote_end": "fail better"
+  },
+  {
+    "id": 21,
+    "image": "../assets/spencer-everett-DdVOCPTofFc-unsplash.jpg",
+    "quote_begin": "every",
+    "quote_middle": "moment",
+    "quote_end": "matters"
+  },
+  {
+    "id": 22,
+    "image": "../assets/taylor-simpson-mVgJY2UzoTI-unsplash.jpg",
+    "quote_begin": "hope is the",
+    "quote_middle": "heartbeat",
+    "quote_end": "of the soul"
+  },
+  {
+    "id": 23,
+    "image": "../assets/tyler-easton-faixctm2YRQ-unsplash.jpg",
+    "quote_begin": "never",
+    "quote_middle": "never",
+    "quote_end": "never give up"
+  },
+  {
+    "id": 24,
+    "image": "../assets/vincent-ledvina-S642vGIOdgU-unsplash.jpg",
+    "quote_begin": "turn your",
+    "quote_middle": "wounds",
+    "quote_end": "into wisdom"
+  }
+]
